@@ -1,14 +1,14 @@
-<h1><a href="https://www.weltpixel.com/magento2-free-social-login-extension.html">Magento 2 Social Login by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento2-free-social-login-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Social Login by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento2-free-social-login-extension.html"><img src="https://www.weltpixel.com/media/catalog/product/2/1/21_social_login_2_1.png" alt="Social Login"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento2-free-social-login-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/2/1/21_social_login_2_1.png" alt="Social Login"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h1>ABOUT THE MAGENTO 2 SOCIAL LOGIN FREE EXTENSION.</h1>
-  	     <p>
+    <h1>ABOUT THE MAGENTO 2 SOCIAL LOGIN FREE EXTENSION.</h1>
+         <p>
 We are constantly looking optimize user experience and conversion while reducing friction in the checkout process. Let’s start by identifying key login option issues that can get in the way.
     </p>
     <p>
@@ -40,22 +40,22 @@ Social Media Login is now fully integrated with our User Profile Extension. When
      <h2>STUDIES SHOW.</h2>
      <ul>
      <p>
-     	<li>
+      <li>
 86% of users report being bothered by having to create a new account on websites.
 </li>
     </p>
     <p>
-    	<li>
+      <li>
 77% of users believe social login is a good registration solution and should be offered by all websites.
 </li>
     </p>
     <p>
-    	<li>
+      <li>
 92% of users will leave a site instead of resetting or recovering login information. ⅓ of users admitting to leaving when they forget a password.
 </li>
     </p>
     <p>
-    	<li>
+      <li>
 88% of users admit to entering incomplete or incorrect data on registration forms.
 </li>
     </p>
@@ -105,8 +105,8 @@ The Dashboard also conducts deeper analysis to help you take better decisions. F
 Our Social Login for Magento 2 has everything you need to optimize your store - and it’s free. What are you waiting for?
     </p>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-social-login/Analitics.png"></p>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html">Magento 2 Social Login by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Social Login by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                            </div></td>
  </tr>
 </table>
@@ -217,7 +217,7 @@ Our Social Login for Magento 2 has everything you need to optimize your store - 
                                     </strong>
                                     <br>
                                     <strong>
-                                    	php bin/magento setup:static-content:deploy
+                                      php bin/magento setup:static-content:deploy
                                     </strong>
 <br>
                                 <li>
@@ -250,21 +250,21 @@ Our Social Login for Magento 2 has everything you need to optimize your store - 
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                 <tr>
                                 <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO ADD SOCIAL LOGIN TO YOUR MAGENTO STORE?</h2>
 <p>
 Social Login only works with <strong>HTTPS</strong> connection, make sure your store is configured to use a secure connection.
-	</p>
-	<p>
+  </p>
+  <p>
 <strong>Easily Enable & Configure Social Login.</strong>
-	</p>
-	<p>
+  </p>
+  <p>
 Go to <strong>Admin > Stores > Configuration > WeltPixel > Social Login > General Settings</strong>.
-	</p>
+  </p>
 <ul>
     <li>
         <strong>Enable Social Login [Yes / No]</strong> - Enable/Disable the WeltPixel Social Login Extension.
@@ -275,27 +275,27 @@ Go to <strong>Admin > Stores > Configuration > WeltPixel > Social Login > Genera
 </ul>
 <p>
 Quick Links for Configuration
-	</p>
-	<ul>
+  </p>
+  <ul>
 <li>
-           <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#facebook-login">Magento 2 Facebook Login</a> 
+           <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#facebook-login?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Facebook Login</a> 
         </li>
         <li>
-            <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#google-login">Magento 2 Google Login</a> 
+            <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#google-login?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Google Login</a> 
             </li>
             <li>
-                <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#amazon-login">Magento 2 Amazon Login</a> 
+                <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#amazon-login?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Amazon Login</a> 
                 </li>
                 <li>
-                    <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#twitter-login">Magento 2 Twitter Login</a> 
+                    <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#twitter-login?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Twitter Login</a> 
                     </li>
                     <li>
-                        <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#linkedin-login">Magento 2 Linkedin Login</a> 
+                        <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#linkedin-login?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Linkedin Login</a> 
                         </li>
                         <li>
-                          <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#paypal-login">Magento 2 PayPal Login</a> 
+                          <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html#paypal-login?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 PayPal Login</a> 
                           </li>
-	</ul>
+  </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-social-login/Enable.png"></p>
 </div>
   </td>
@@ -321,7 +321,7 @@ Social Login only works with <strong>HTTPS</strong> connection, make sure your s
                    <strong> OAuth Redirect URI</strong> - This URL should be used while creating a new Social Login application.
                     </li>
                     <li>
-                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Facebook. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html">User Profile</a></strong> extension.
+                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Facebook. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">User Profile</a></strong> extension.
                         </li>
                     </ul>
 
@@ -432,7 +432,7 @@ Social Login only works with <strong>HTTPS</strong> connection, make sure your s
                    <strong> OAuth Redirect URI</strong> - This URL should be used while creating a new Social Login application.
                     </li>
                     <li>
-                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Google. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html">User Profile</a></strong> extension.
+                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Google. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">User Profile</a></strong> extension.
                         </li>
                     </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-social-login/Google.png"></p>
@@ -549,7 +549,7 @@ Social Login only works with <strong>HTTPS</strong> connection, make sure your s
                    <strong>OAuth Redirect URI</strong> - This URL should be used while creating a new Social Login application.
                     </li>
                     <li>
-                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Amazon. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html">User Profile</a></strong> extension.
+                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Amazon. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">User Profile</a></strong> extension.
                         </li>
                     </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-social-login/Amazon.png"></p>
@@ -637,7 +637,7 @@ Social Login only works with <strong>HTTPS</strong> connection, make sure your s
                    <strong> OAuth Redirect URI</strong> - This URL should be used while creating a new Social Login application.
                     </li>
                     <li>
-                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Twitter. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html">User Profile</a></strong> extension.
+                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Twitter. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">User Profile</a></strong> extension.
                         </li>
                     </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-social-login/Twitter.png"></p>
@@ -732,7 +732,7 @@ Social Login only works with <strong>HTTPS</strong> connection, make sure your s
                    <strong> OAuth Redirect URI</strong> - This URL should be used while creating a new Social Login application.
                     </li>
                     <li>
-                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Linkedin. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html">User Profile</a></strong> extension.
+                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with Linkedin. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">User Profile</a></strong> extension.
                         </li>
                     </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-social-login/LinkedIn.png"></p>
@@ -826,7 +826,7 @@ Social Login only works with <strong>HTTPS</strong> connection, make sure your s
                    <strong> OAuth Redirect URI</strong> - This URL should be used while creating a new Social Login application.
                     </li>
                     <li>
-                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with PayPal. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html">User Profile</a></strong> extension.
+                        <strong>Enable User Profile Creation</strong> - If set to Yes, a User Profile will be created when logging in with PayPal. Requires the <strong><a href="https://www.weltpixel.com/magento-2-user-profile.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">User Profile</a></strong> extension.
                         </li>
                     </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-social-login/PayPal.png"></p>
@@ -933,5 +933,5 @@ Click <strong>Save</strong>.
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html">Magento 2 Social Login by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento2-free-social-login-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Social Login by WeltPixel.</a></h3>
 
